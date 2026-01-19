@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite the associated academic work."
+authors:
+  - family-names: Lee
+    given-names: Eun-Young
+    suffix: M.D.
+title: "Using AGI in Human Relationships Without Losing Human Agency"
+version: 1.0.0
+date-released: 2026-01-19
+abstract: >
+  A non-intervention framework for the use of Artificial General Intelligence (AGI)
+  in human relationships, grounded in the Pain Kernel Framework (PKF),
+  designed to preserve human agency by preventing responsibility transfer,
+  behavioral prescription, and premature meaning assignment.
+keywords:
+  - AGI Safety
+  - Human-Centered AI
+  - Human Agency
+  - Non-Intervention
+  - Pain Kernel Framework
+license: CC-BY-4.0
+repository-code: "https://github.com/YOUR_USERNAME/using-agi-without-losing-human-agency"
