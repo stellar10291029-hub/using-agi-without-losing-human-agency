@@ -87,3 +87,7 @@ in the presence of increasingly capable AI systems.
 ## License
 
 CC BY 4.0 (Creative Commons Attribution 4.0)
+
+## Canonical Academic Record
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.18297062
